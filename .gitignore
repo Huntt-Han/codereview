@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.vs/project1/v15/.suo
+*.ipch
+.vs/project1/v15/Browse.VC.db
+*.log
+*.tlog
